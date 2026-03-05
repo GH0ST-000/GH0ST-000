@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Luka Datunashvili
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Python
+- 👀 I’m senior software engineer
 - 📫 reach me https://www.linkedin.com/in/luka-datunashvili-7365971ab/
 
 <!---
